@@ -1,0 +1,2 @@
+# StockMarketProblem
+ quick coding challenge
